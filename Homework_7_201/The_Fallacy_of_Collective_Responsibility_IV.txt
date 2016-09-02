@@ -1,0 +1,19 @@
+Fallacy of Collective Responsibility of Governmental Institutions
+Origin, Reasoning, Prevalence, Impact and Example
+
+Origin of the Fallacy: Decisions by the Government impact society, and because not all decisions can have consensus among the represented population, often there are segments of society that feel disconnected from important decisions. With such decision instances, there is often a sentiment that the collective entity called “Government” is responsible [2]. This blame of this collective happens because it is convenient for the offended citizenry to lay the responsibility using “words of convenience”. (other examples of convenience words: “Congress”, “Society”, “Police”)
+
+Reasoning for why the Fallacy exists: In referring to the collective entity as a single existing person-like entity, one that is capable of thinking independently as a single unit and executing decisions, the fallacy takes shape. The Government is blamed for its decision to snoop on fellow citizens. However, Governments are composites of citizen individuals who act as leaders and it is these individuals who approve policy and make decisions.  
+
+Prevalence of this Fallacy: Sentiments that emphasize the fallacy are expressed in articles that are referenced [1] [2].  The Government establishes a specific policy charter and the people running it execute the charter. Well-intentioned citizens in charge of the Government seemingly make decisions that adversely affect other citizens. For instance, the policy head at the National Security Agency (NSA) makes snooping decisions [1] that are associated with all at the NSA. The NSA staff is simply implementing the set policy. 
+
+Why is the Fallacy sticky? : The opaqueness of the day-to-day operation of the Government causes the fallacy to be sticky. The average discontent citizen knows of the existence of decision making entities but does not have the ability to view the data that the decision makers use, or know the people involved in the decision, or the reasoning that went into the offending decision. It is simply easy to blame the collective given high-level data.
+
+Why is the Fallacy hard to fix? : Individual citizen administrators making the unpopular policy decisions are acting on behalf of the Government and so are absolved from revealing individual identity. Because offending decisions are made in the name of the Government, blaming the collective entity is prevalent.
+
+How impactful is this fallacy? : High, order of 8 on a 1 – 10 scale. Placing collective responsibility in a governmental organization is often too broad and is not actionable.  The source of all government decisions is an individual policy setter. The point of policy change must be that individual and any criticism must be directed to this person. Congressmen understand this and effect policy changes by influencing the head of the NSA.
+
+References:
+[1]. http://www.pbs.org/wgbh/frontline/article/with-or-without-the-patriot-act-heres-how-the-nsa-can-still-spy-on-americans/
+
+[2]. http://www.washingtonsblog.com/2013/09/the-government-is-spying-on-us-through-our-computers-phones-cars-buses-streetlights-at-airports-and-on-the-street-via-mobile-scanners-and-drones-through-our-smart-meters-and-in-many-other-ways.html

@@ -1,0 +1,36 @@
+Date: 16 May 2016
+
+To: Chief Technologist, JCN Inc. 
+
+Re: Proposal to use Data Analytics to model and predict employee turnover within JCN Inc.
+
+From: Natarajan Shankar, Data Science 
+
+Issue: Workforce attrition is a cause of concern at JCN Inc., which has a staff of 400. The employee turnover rate has affected the company bottom line when organizations that are critical to the core business operations and product, such as Product Engineering and Sales, have lost employees. 
+
+ÒWhy are employees voluntarily leavingÓ?
+Shankar will build a model of attrition and the reasoning behind it by collecting data on all employees who are voluntarily leaving.  Attributes relating to the work environment, both personal and company related, will be queried and quantified and normalized. Shankar will discover and document associations between the chosen data attributes and document trends.
+
+A representative set of top-level data, with sub attributes, that will be used to model the event:
+1. Relationship with Manager, Rank 1, Qualitative
+2. Team dynamic, Rank 2, Qualitative
+3. Compensation satisfaction, Rank 5, Qualitative
+4. Career term and path, Rank 3, Qualitative
+5. Work place stress, Rank 2, Qualitative
+6. Personal, Rank 4, Qualitative
+7. ManagerÕs rating, Rank 5, Qualitative
+8. Company culture, Rank 3, Qualitative
+
+The strategic question to answer is: ÒHow can valued employees be retainedÓ?
+Shankar will create a predictive model using multivariate data modeling techniques, using the data identified in the tactical study and create a predictive index called the Employee Attrition Likelihood (EAL) for employees in various employment classes This normalized index will use the top-level data measurements to predict possibility of attrition. 
+
+A representative summary of the decision matrix is:
+1. EAL > 0.8, Employee not at risk
+2. 0.7 < EAL <= 0.8, EAL trend negative over 2 quarters, at risk, flag Yellow
+3. 0.7 < EAL <= 0.8, EAL trend is positive over 2 quarters, defensive action working
+4. EAL <= 0.7, Employee is attrition risk, flag Red, begin defensive action
+
+There are roadblocks to success: 
+1. Population sample: The population sample must be truly representative and large enough for models to be effective
+2. Data collection and normalization: Data in the tactical study is overwhelmingly qualitative and data perspective will vary significantly and thus the data must be normalized in order to prevent decision skews
+3. Data Modeling: Developed models must be validated over time and refined adaptively as more data is collected

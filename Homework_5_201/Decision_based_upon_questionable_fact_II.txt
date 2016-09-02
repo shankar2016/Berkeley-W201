@@ -1,0 +1,26 @@
+Disparities in Knowing and Action: How Investors should have managed 
+Theranos, Inc.
+
+Theranos Inc. is a well funded, much hyped, privately held biotechnology and medical lab services company based in Palo Alto, California. Their core business tenet is that the set of widely used biometrics measurement techniques could be highly optimized and that this optimization market could sustain a successful multi million dollar business. This company is now a case study in the disparities in Knowing between company insiders and investors and how active deception misled investors.
+
+Theranos Inc. was founded on the commonality of understanding between investors and the founders that customers will pay for and sustain a company that provides the following improvements in a widely used process:
+1. A simpler blood collection device, with miniaturized technology, 
+2. With the ability to be used in unsupervised non-medical environments, 
+3. While providing more accurate information using smaller samples, 
+4. Using a process that is devoid of almost all forms of patient discomfort, 
+The above questionable claims were taken by investors as perspectives of the company’s honest business objective. With an addressable test market of $60 billion/year (7) and an addressable equipment sales market of $56 billion/year (7), Theranos’ business seemed sure fire “Unicorn” like. The accompanying euphoria led to overconfidence and brash decision making with investor funding. 
+
+In subsequent years, Theranos operationally could not meet many of the standards of proof needed to support their objectives or claims and company executives and staff manipulated the perspectives of truth by: 
+1. Subverting approval processes by classifying equipment into unregulated tier
+2. Avoiding independent verification of analysis precision
+3. No providing independent lab confirmation of results, against legacy tests
+4. Following a policy of company silence with non-conforming test results
+5. Adopting data secrecy in the name of protecting company proprietary technology
+6. Not allowing peer level reviews of process and data prior to product release
+
+The ownership of truth by company executives was such that real data was not communicated to the investors leading to disparity in Knowing and Action. The company actions went uncontrolled because the company controlled board of directors lacked technical depth. 
+
+After initial funding, an ongoing engagement between investors and the company executives would have led to many interim checkpoints that would have prevented the series of missteps. A few key steps by the investors would have been instrumental:
+1. Establishing technical integrity of company claims via independent verification
+2. Establishing a program of tiered investments, with each tier tied to peer verification of claims
+3. For corporate oversight, establishing a technically savvy board of directors that would have overseen ethical decision making
